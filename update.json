@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "1.8.17",
+    "version":  "1.8.18",
     "downloadUrl":  "https://github.com/vadimstyr/ibf-pkg-releases/releases/latest",
-    "installerUrl":  "https://github.com/vadimstyr/ibf-pkg-releases/releases/download/v1.8.17/pkg_v1.8.17.exe",
+    "installerUrl":  "https://github.com/vadimstyr/ibf-pkg-releases/releases/download/v1.8.18/pkg_v1.8.18.exe",
     "changes":  [
-                    "Desktop-Icon weiss mit schwarzem Logo,Anmeldung merken Checkbox"
+                    "Icon-Quelle stabilisiert, schwarzes Quadrat behoben,Startfehler beim App-Start durch Icon-URI behoben"
                 ]
 }
 
