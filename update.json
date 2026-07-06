@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "1.8.20",
+    "version":  "1.8.21",
     "downloadUrl":  "https://github.com/vadimstyr/ibf-pkg-releases/releases/latest",
-    "installerUrl":  "https://github.com/vadimstyr/ibf-pkg-releases/releases/download/v1.8.20/pkg_v1.8.20.exe",
+    "installerUrl":  "https://github.com/vadimstyr/ibf-pkg-releases/releases/download/v1.8.21/pkg_v1.8.21.exe",
     "changes":  [
-                    "Startfehler behoben: Icon-Pack-URI korrigiert,Fenster-Icons nutzen PNG statt defektem ICO"
+                    "Login-Fenster: Layout korrigiert, nichts mehr abgeschnitten"
                 ]
 }
 
