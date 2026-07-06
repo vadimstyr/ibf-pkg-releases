@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "1.8.16",
+    "version":  "1.8.17",
     "downloadUrl":  "https://github.com/vadimstyr/ibf-pkg-releases/releases/latest",
-    "installerUrl":  "https://github.com/vadimstyr/ibf-pkg-releases/releases/download/v1.8.16/pkg_v1.8.16.exe",
+    "installerUrl":  "https://github.com/vadimstyr/ibf-pkg-releases/releases/download/v1.8.17/pkg_v1.8.17.exe",
     "changes":  [
-                    "Icon schwarz auf weiss,Einheitlich Desktop Installer und App"
+                    "Desktop-Icon weiss mit schwarzem Logo,Anmeldung merken Checkbox"
                 ]
 }
 
