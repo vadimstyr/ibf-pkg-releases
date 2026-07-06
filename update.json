@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "1.8.11",
+    "version":  "1.8.12",
     "downloadUrl":  "https://github.com/vadimstyr/ibf-pkg-releases/releases/latest",
-    "installerUrl":  "https://github.com/vadimstyr/ibf-pkg-releases/releases/download/v1.8.11/pkg_v1.8.11.exe",
+    "installerUrl":  "https://github.com/vadimstyr/ibf-pkg-releases/releases/download/v1.8.12/pkg_v1.8.12.exe",
     "changes":  [
-                    "Login-Start nach Anmeldung behoben,Hauptfenster oeffnet wieder korrekt,Debug-Telemetrie entfernt"
+                    "PDF-Verlauf bei Installation zurueckgesetzt,Keine alten PDF-Eintraege mehr im Startverlauf"
                 ]
 }
 
