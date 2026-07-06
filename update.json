@@ -1,10 +1,9 @@
 ﻿{
-  "version": "1.8.10",
-  "downloadUrl": "https://github.com/vadimstyr/ibf-pkg-releases/releases/latest",
-  "installerUrl": "https://github.com/vadimstyr/ibf-pkg-releases/releases/download/v1.8.10/pkg_v1.8.10.exe",
-  "changes": [
-    "Login beim Start",
-    "Passwort verschlüsselt gespeichert",
-    "Update-Check zeigt neue Versionen korrekt an"
-  ]
+    "version":  "1.8.11",
+    "downloadUrl":  "https://github.com/vadimstyr/ibf-pkg-releases/releases/latest",
+    "installerUrl":  "https://github.com/vadimstyr/ibf-pkg-releases/releases/download/v1.8.11/pkg_v1.8.11.exe",
+    "changes":  [
+                    "Login-Start nach Anmeldung behoben,Hauptfenster oeffnet wieder korrekt"
+                ]
 }
+
