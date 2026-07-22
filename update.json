@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "1.8.23",
-    "downloadUrl":  "https://github.com/vadimstyr/ibf-pkg-releases/releases/latest",
-    "installerUrl":  "https://github.com/vadimstyr/ibf-pkg-releases/releases/download/v1.8.23/pkg_v1.8.23.exe",
-    "changes":  [
-                    "Fix: Parameter is not valid bei Seite 1 komplett schwärzen (versetzte MediaBox),Redaction-Rechtecke werden auf echte Seitenbounds begrenzt"
-                ]
+    "version": "1.8.23",
+    "downloadUrl": "https://github.com/vadimstyr/ibf-pkg-releases/releases/latest",
+    "installerUrl": "https://github.com/vadimstyr/ibf-pkg-releases/releases/download/v1.8.23/pkg_v1.8.23.exe",
+    "changes": [
+        "Fix: Parameter is not valid bei Seite 1 komplett schwärzen (versetzte MediaBox)",
+        "Redaction-Rechtecke werden auf echte Seitenbounds begrenzt"
+    ]
 }
-
