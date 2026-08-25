@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "1.8.26",
+    "version":  "1.8.27",
     "downloadUrl":  "https://github.com/vadimstyr/ibf-pkg-releases/releases/latest",
-    "installerUrl":  "https://github.com/vadimstyr/ibf-pkg-releases/releases/download/v1.8.26/pkg_v1.8.26.exe",
+    "installerUrl":  "https://github.com/vadimstyr/ibf-pkg-releases/releases/download/v1.8.27/pkg_v1.8.27.exe",
     "changes":  [
-                    "Seite 1 bleibt komplett schwarz, auch wenn Header/Footer wegen Unsupported image type fehlschlaegt"
+                    "Mausrad scrollt den Viewer wieder,Header/Footer-Schwärzung für KI eingefroren"
                 ]
 }
 
